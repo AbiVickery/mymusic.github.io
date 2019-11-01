@@ -6,3 +6,6 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1d7034",endColorstr="#80647c",GradientType=1);
     font-family: 'Yeon Sung', cursive;
 }
+#album1 {
+    text-align: center;
+}
